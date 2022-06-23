@@ -7,6 +7,7 @@ export default function CategoryLabel({ children }) {
     Python: "bg-lime-500",
     PHP: "bg-indigo-500",
     Ruby: "bg-red-500",
+    Learning: "bg-blue-600",
   };
 
   return (
